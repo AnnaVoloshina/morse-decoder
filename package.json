@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "colors": "^1.4.0",
+    "jshint": "^2.13.1",
     "semver": "^6.3.0"
   }
 }
